@@ -1,0 +1,12 @@
+{
+    "name": "Pulumi-DigitalOcean-ContainerWebsite",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^16"
+    },
+    "dependencies": {
+        "@pulumi/digitalocean": "^4.22.0",
+        "@pulumi/pulumi": "^3.0.0",
+        "dotenv": "^16.3.1"
+    }
+}
