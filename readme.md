@@ -2,7 +2,7 @@
 
 ## Description
 
-This project helps you automate the deployment of your web application to DigitalOcean using Pulumi. It sets up a droplet with docker that can run a container, puts that dropley behind a loadbalancer, and sets up domain records to point to the load balancer.
+This project helps you automate the deployment of your web application to DigitalOcean using Pulumi. It sets up a droplet with docker that can run a container, puts that droplet behind a loadbalancer, and sets up domain records to point to the load balancer.
 
 ## Table of Contents
 
