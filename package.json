@@ -2,7 +2,7 @@
     "name": "Pulumi-DigitalOcean-ContainerWebsite",
     "main": "index.ts",
     "devDependencies": {
-        "@types/node": "^16"
+        "@types/node": "^20.19.43"
     },
     "dependencies": {
         "@pulumi/digitalocean": "^4.22.0",
