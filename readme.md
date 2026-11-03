@@ -13,7 +13,7 @@ This project helps you automate the deployment of your web application to Digita
 
 ## Prerequisites
 
-- Node.js (v22+ recommended; the CI workflow runs Node 22)
+- Node.js (v24+ recommended; the CI workflow runs Node 24)
 - NPM (v9+ recommended)
 - A DigitalOcean account
 - A GitHub account
