@@ -5,8 +5,8 @@
         "@types/node": "^26.6.6"
     },
     "dependencies": {
-        "@pulumi/digitalocean": "^4.84.2",
-        "@pulumi/pulumi": "^3.276.0",
+        "@pulumi/digitalocean": "^4.85.0",
+        "@pulumi/pulumi": "^3.277.0",
         "dotenv": "^18.0.4"
     }
 }
